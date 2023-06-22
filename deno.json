@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "hastscript"
+  },
+  "imports": {
+    "hastscript/jsx-runtime": "https://esm.sh/hastscript@7.2.0/jsx-runtime"
+  }
+}

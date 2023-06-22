@@ -1,0 +1,23 @@
+{
+  "version": "2",
+  "remote": {
+    "https://esm.sh/hastscript@7.2.0/jsx-runtime": "0d076e4f5cccca69fa41e16fee48e6f3fc684e4adb1045d00df1b98f8b119a61",
+    "https://esm.sh/v126/@types/hast@2.3.4/index.d.ts": "394b2653905839c7fe4c7b7d91bc2f3e16a28e4d6551ed681ea1002fbbadca8e",
+    "https://esm.sh/v126/@types/unist@2.0.6/index.d.ts": "cddf5c26907c0b8378bc05543161c11637b830da9fadf59e02a11e675d11e180",
+    "https://esm.sh/v126/comma-separated-tokens@2.0.3/denonext/comma-separated-tokens.mjs": "ad5df8a36487e0a63d15bbbb6bab8b153e08583d0d5eb6d0058cd0fc619252e0",
+    "https://esm.sh/v126/hast-util-parse-selector@3.1.1/denonext/hast-util-parse-selector.mjs": "df576c8298a048d9aad89506f5884db91bc249bb6e221b9fd3b228eb40980a62",
+    "https://esm.sh/v126/hastscript@7.2.0/denonext/jsx-runtime.js": "5c9bba0b90207f1cabbad2a77d6d482fef6edc25ac15ca48a54f655271098c5c",
+    "https://esm.sh/v126/hastscript@7.2.0/jsx-runtime.d.ts": "9a7a6b17914e353a4d3e97152195b33435cad2f45c03331e2011e6dd706772ee",
+    "https://esm.sh/v126/hastscript@7.2.0/lib/core.d.ts": "b858399b4841dcb84c2138aa10bcbecaece667eb46abf8d83f4a5122e9f604e2",
+    "https://esm.sh/v126/hastscript@7.2.0/lib/jsx-automatic.d.ts": "9eff59368dfd86273aaa69a3ed9942c14c1b943260f44ead781d6ca48bdadcd4",
+    "https://esm.sh/v126/hastscript@7.2.0/lib/runtime-html.d.ts": "573a880ba884eb88fecfa4cc9f89aaccfea26b281f9177a590d29c1f70ea959a",
+    "https://esm.sh/v126/property-information@6.2.0/denonext/property-information.mjs": "c36042799161605d2ba2af318abf697a41e77e7ef5c80f5740de470db7776b9c",
+    "https://esm.sh/v126/property-information@6.2.0/index.d.ts": "a9e5c5ec2c2f725d3076d5723936f9421b61aad61c70761a046887e78205faff",
+    "https://esm.sh/v126/property-information@6.2.0/lib/find.d.ts": "946fb56407dd8761cb61b1670a6c7df7e12bd5ec4b543b23c627d6ed94d7ce6f",
+    "https://esm.sh/v126/property-information@6.2.0/lib/hast-to-react.d.ts": "46ab5ea5cdbc0ce75ade44ec0d9aa164f81e42b061d8e573b832a73ed181da57",
+    "https://esm.sh/v126/property-information@6.2.0/lib/normalize.d.ts": "d752d4dde165ab9bd56ddd111f59a6bf46eebbc6d4ba4e433f2ea21d1d0599e6",
+    "https://esm.sh/v126/property-information@6.2.0/lib/util/info.d.ts": "7bd32cd2e05737c6a5041ca7a31ceca0c14ce065661c5d1ae5f7bfa35ff3fc5e",
+    "https://esm.sh/v126/property-information@6.2.0/lib/util/schema.d.ts": "35fc1ace1046f537efd2a4f06cf58149465ccca6bc1045ee0bd27e58fcd53804",
+    "https://esm.sh/v126/space-separated-tokens@2.0.2/denonext/space-separated-tokens.mjs": "f30773a9959cacfe7511c250e5d125a9f88ee00d3aef6e87b4d17fe49806b276"
+  }
+}
